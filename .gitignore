@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# PyCharm & VSCode project settings
+.idea/
+.vscode/
+
+# Docker
+*.log
+*.pid
+*.sqlite3
+*.db
+docker-compose.override.yml
+
+# Audio temp files
+*.wav
+
+# Ngrok log/cache
+ngrok-debug.log
+ngrok.yml
+

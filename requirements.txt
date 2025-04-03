@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydub
+openai
+python-dotenv
+python-ffmpeg
